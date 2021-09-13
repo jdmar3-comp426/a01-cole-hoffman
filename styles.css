@@ -16,8 +16,11 @@ a:hover {
     text-align: center;
     height: 5px;
 }
-.bodyCopy {
+div p {
     font-size: 200%;
+
+}
+.bodyCopy {
     font-family: Arial;
     text-align: center;
 }
@@ -27,17 +30,17 @@ a:hover {
     font-family: Arial;
 }
 #home {
-    background-color: wheat;
+    background-color: #F5DEB3;
 }
 
 #zeus {
-    background-color: yellow;
+    background-color: #FFFF00;
 }
 
 #poseidon {
-    background-color:teal;
+    background-color: #008080;
 }
 
 #hades {
-    background-color: red;
+    background-color: #F73718;
 }
